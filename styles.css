@@ -1,0 +1,173 @@
+.N {
+    font-family: 'Monoton', cursive;
+    font-weight: normal;
+}
+
+body {
+    background-color: grey;
+}
+
+.module-border-wrap {
+    max-width: 10000px;
+    padding: 5px;
+    position: relative;
+    background: linear-gradient(to right, red, grey, black);
+    margin: 15px;
+
+}
+
+.module {
+    background: grey;
+    color: pink;
+    padding: 10px;
+}
+
+button {
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: red;
+    width: 150px;
+    border: 2px solid black;
+}
+
+.button2 {
+    background-color: black;
+    width: 150px;
+    border: 2px solid red;
+}
+
+.Nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    margin: 15px;
+    border: 5px solid red;
+}
+
+.Al {
+    display: Flex;
+    justify-content: space-between;
+    margin: 15px;
+}
+
+.All {
+    display: Flex;
+    justify-content: space-between;
+    margin: 15px;
+    border: 20px solid white;
+}
+
+.Art {
+    text-align: center;
+    padding: 1px;
+    border: 3px solid black;
+
+
+}
+
+.Quotes {
+    padding: 1px;
+    border: 3px solid black;
+    text-align: center;
+    width: 250px;
+}
+
+.Friends {
+    padding: 1px;
+    border: 3px solid black;
+    width: 250px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 200px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: red;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+a {
+    font-family: 'Press Start 2P', cursive;
+}
+
+.Q1 {
+    font-family: 'Indie Flower', cursive;
+}
+
+.Q2 {
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.Q3 {
+    font-family: 'Kaushan Script', cursive;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: 'Bangers', cursive;
+    font-weight: normal;
+
+}
+
+.color {
+    color: red;
+}
+
+.color2 {
+    color: black;
+}
+
+.round {
+    border-radius: 40px;
+    border: 3px solid red;
+    margin: 15px;
+    padding: 0px;
+}
+
+.roun {
+    border-radius: 40px 40px 40px 0px;
+    border: 3px solid red;
+    margin: 15px;
+    padding: 10px;
+}
+
+.roun2 {
+    border-radius: 40px 40px 40px 0px;
+    border: 3px solid black;
+    margin: 15px;
+    padding: 10px;
+}
+
+.c {
+    border-radius: 50%;
+}
